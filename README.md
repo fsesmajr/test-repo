@@ -1,7 +1,0 @@
-# Hello
-
-# Hi
-
-# Hello
-
-## Howdy
